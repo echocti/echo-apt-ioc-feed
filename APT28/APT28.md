@@ -17,6 +17,10 @@
 |BDF8B53D73CA1ED1B649B32A61608B2CF952397EF3D5FC2E6E9F41AD98C40110|SHA256|Cry Wiper|
 |91a9180a9cf7674c34ed53a8aa4e36b798334d1f448aeaf1afb9add4fd322b6e|SHA256|Fantasy|
 |0ad0cd07ca69d8fd2b075fef6e6dd5e9f7debca92af3a6b84d83e51e23bc182d|SHA256|Bruh Wiper|
+|46e2957e699fae6de1a212dd98ba4e2bb969497d |MD5|chost.exe|
+|c53930772beb2779d932655d6c3de5548810af3d |MD5|msoutlook.dll|
+|fa695e88c87843ca0ba9fc04b176899ff90e9ac5 |MD5|Samp_(16).file|
+|046a8adc2ef0f68107e96babc59f41b6f0a57803 |MD5|outlook.dll|
 |cc213200daf4202e2454dc2c363db04f|MD5|new.exe (CaddyWiper v3)|
 |00782ccd65a1e03e3e74ce1e59e752926e0a050818fa195bd7e5a5b359500758|SHA256|new.exe (CaddyWiper v3)|
 |54e5773071b193e109cbacc82565c6a9|MD5|upd.exe (ZeroWipe)|
@@ -40,7 +44,64 @@
 |80[.]67.167.81|IP||
 |194[.]28.172.172|IP||
 |194[.]28.172.81|IP||
-
+| 139.5.177.205|IP||
+| 80.255.6.15  |IP||
+| 89.34.111.107|IP||
+| 86.106.131.229|IP||
+| 139.5.177.206 |IP||
+| 185.181.102.203|IP||
+| 185.181.102.204|IP||
+| 169.239.129.31 |IP||
+| 213.252.247.112|IP||
+| 185.86.148.15  |IP||
+| 89.45.67.110   |IP||
+| 185.86.150.205 |IP||
+| 193.37.255.10 |IP||
+| 195.12.50.171  |IP||
+| 51.38.128.110  |IP||
+| 185.144.83.124 |IP||
+| 185.216.35.10  |IP||
+| 185.94.192.122 |IP||
+| 185.216.35.7 |IP||
+| 103.253.41.124 |IP||
+| 185.189.112.195 |IP||
+| 185.230.124.246 |IP||
+| 87.120.254.106 |IP||
+| 77.81.98.122 |IP||
+| 89.34.111.132|IP||
+| 46.21.147.55 |IP||
+| 103.208.86.57|IP||
+| 185.128.24.104|IP||
+| 145.239.67.8 |IP||
+| 185.210.219.250|IP||
+| 86.105.9.174 |IP||
+| 89.34.111.107  |IP||
+|fundseats.com            |Domain||
+|globaltechengineers.org |Domain||
+| beststreammusic.com    |Domain||
+| thepiratecinemaclub.org|Domain||
+| coindmarket.com         |Domain||
+| creekcounty.net        |Domain||
+|virtsvc.com               |Domain||
+| moderntips.org           |Domain||
+|daysheduler.org          |Domain||
+| escochart.com            |Domain||
+|loungecinemaclub.com    |Domain||
+|genericnetworkaddress.com|Domain||
+| bulgariatripholidays.com|Domain||
+| georgia-travel.org        |Domain||
+|bbcweather.org          |Domain||
+|politicweekend.com     |Domain||
+|truefashionnews.com    |Domain||
+| protonhardstorage.com   |Domain||
+|moldtravelgroup.com       |Domain||
+|iboxmit.com              |Domain||
+| brownvelocity.org         |Domain||
+|  pointtk.com              |Domain||
+| narrowpass.net          |Domain||
+|  powernoderesources.com    |Domain||
+| topcinemaclub.com         |Domain||
+|  fundseats.com            |Domain||
 
 
 
@@ -58,4 +119,3 @@
     icacls.exe C:\Windows\explorer.exe /deny *S-1-1-0:F
     takeown /F C:\Windows\explorer.exe
     
-
